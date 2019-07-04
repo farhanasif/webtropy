@@ -8,41 +8,41 @@
             <p class="lead">The brave and the blue</p>
           </div>
           <div class="col-lg-4 col-md-5 col-sm-6">
-            <div class="sponsor">
-              <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CKYIE23N&placement=bootswatchcom" id="_carbonads_js"></script>
-            </div>
+            <h1>Laravel dev</h1>
+            <p>Simplicity at it's best</p>
           </div>
         </div>
       </div>
       <!-- Blockquotes -->
-
+        <br />
+        <br />
       <div class="row">
           <div class="col-lg-12">
-            <h2 id="type-blockquotes">Blockquotes</h2>
+            <h4 id="type-blockquotes">Quotes</h4>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-4">
             <div class="bs-component">
               <blockquote class="blockquote">
-                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                <p class="mb-0">If I am a cup maker, I'm interested in making the best cup I possibly can. My effort goes into that cup, not what people think about it.</p>
+                <footer class="blockquote-footer">by <cite title="Source Title">Denzel Washington</cite></footer>
               </blockquote>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="bs-component">
               <blockquote class="blockquote text-center">
-                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                <p class="mb-0">What you really fear is inside yourself. You fear your own power. You fear your anger, the drive to do great or terrible things.</p>
+                <footer class="blockquote-footer">Ra's Al Ghul in <cite title="Source Title">Batman Begins</cite></footer>
               </blockquote>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="bs-component">
               <blockquote class="blockquote text-right">
-                <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                <p class="mb-0">I think a simple rule of business is, if you do the things that are easier first, then you can actually make a lot of progress in future.</p>
+                <footer class="blockquote-footer">by <cite title="Source Title">Mark Zuckerberg</cite></footer>
               </blockquote>
             </div>
           </div>
