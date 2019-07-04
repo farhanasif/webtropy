@@ -29,6 +29,17 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="../help/">Help</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://blog.bootswatch.com">Blog</a>
+            </li>
+            <li class="nav-item">
+                <button class="btn btn-primary my-2 my-sm-0" type="submit">Write a new post!!</button>
+            </li>
+          </ul>
           <ul class="nav navbar-nav ml-auto">
             <li class="nav-item">
               <a class="nav-link" href="https://wrapbootstrap.com/?ref=bsw" target="_blank">Login</a>
